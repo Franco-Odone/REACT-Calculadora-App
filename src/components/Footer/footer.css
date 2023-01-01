@@ -1,5 +1,6 @@
 .footer-contenedor {
     color: #aaaaaa;
+    margin-top: 15px;
 }
 
 .enlace-github {
@@ -13,5 +14,8 @@
 @media screen and (max-width: 768px) {
     .footer-contenedor {
         text-align: center;
+        width: 100%;
+        margin: 15px 0 15px 0;
+        padding: 0 15px 0 15px;
     }
 }

@@ -1,6 +1,6 @@
 # Desarrollo de una calculadora (App Web) con REACT
 
-En esta aplicación desarrollé una calculadora (App Web) con REACT haciendo las validaciones necesarias para que funcione de manera correcta.
+En este proyecto desarrollé una calculadora (App Web) con REACT haciendo las validaciones necesarias para que funcione de manera correcta.
 
 [Enlace al despliegue](https://react-calculadora-app.vercel.app/)
 

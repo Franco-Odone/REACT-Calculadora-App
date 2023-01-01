@@ -4,10 +4,10 @@
 }
 
 .App {
-  width: 100%;
+  width: fit-content;
   height: fit-content;
   box-sizing: border-box;
-  margin-top: 25px;
+  margin: auto;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -34,7 +34,8 @@
 }
 
 @media screen and (max-width: 768px) {
-  .App {
+  .contenedor-calculadora {
+    width: 90%;
     margin: auto;
   }
 }
